@@ -7,3 +7,4 @@ print files with long format
 list more files
 list file digits only
 first directory
+move a file
