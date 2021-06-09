@@ -9,3 +9,4 @@ list file digits only
 first directory
 move a file
 Delete a file betty
+Delete a directory
