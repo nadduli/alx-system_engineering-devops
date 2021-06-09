@@ -2,4 +2,4 @@
 Shell basics
 print working directory
 list files and directories of the working directory
-/root
+take back to root
