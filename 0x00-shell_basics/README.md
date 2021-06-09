@@ -6,3 +6,4 @@ take back to root
 print files with long format
 list more files
 list file digits only
+first directory
