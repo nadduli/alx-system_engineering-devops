@@ -8,4 +8,5 @@ Execute permission
 multiple permissions
 Everybody permissions
 more permissions 
-script to set mode of a file
+script to set permissions
+script to set mode
