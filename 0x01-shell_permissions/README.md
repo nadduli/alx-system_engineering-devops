@@ -7,3 +7,4 @@ script for creating new file
 Execute permission
 multiple permissions
 Everybody permissions
+more permissions 
