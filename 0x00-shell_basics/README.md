@@ -15,3 +15,4 @@ list files
 file types
 symbolic links
 HTML files to be copied
+move files with capital letters
