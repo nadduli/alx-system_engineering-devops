@@ -15,3 +15,4 @@ A script to set directory permission
 Change group owner of a file
 change file owner and group owner
 symbolicpermissions
+change owner of the file 
