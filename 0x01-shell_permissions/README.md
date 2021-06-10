@@ -6,3 +6,4 @@ change the owner of the file hello to betty
 script for creating new file
 Execute permission
 multiple permissions
+Everybody permissions
