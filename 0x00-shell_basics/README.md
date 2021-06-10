@@ -11,3 +11,4 @@ move a file
 Delete a file betty
 Delete a directory
 Back
+list files
