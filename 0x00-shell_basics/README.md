@@ -13,3 +13,4 @@ Delete a directory
 Back
 list files
 file types
+symbolic links
