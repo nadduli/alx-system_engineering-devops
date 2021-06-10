@@ -12,3 +12,4 @@ Delete a file betty
 Delete a directory
 Back
 list files
+file types
