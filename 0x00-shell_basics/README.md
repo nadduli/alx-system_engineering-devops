@@ -19,3 +19,4 @@ move files with capital letters
 remove temporarly files created by emacs
 display directories 
 list directories seperated by comma
+Holberton magic file
