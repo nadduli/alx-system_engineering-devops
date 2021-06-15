@@ -23,3 +23,4 @@ Hiago is a script that removes all letters c and C from input.
 esreveR is  a script that reverse its input.
 users_and_homes is a script that displays all users and their home directories, sorted by users.
 command that finds all empty files and directories in the current directory and all sub-directories.
+a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
