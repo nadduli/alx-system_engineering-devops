@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+scp -p ~/.ssh/school ubuntu@35.231.87.217
