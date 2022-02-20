@@ -1,7 +1,12 @@
-Issue Summary
+![web](https://user-images.githubusercontent.com/80126109/154865170-a69efdfc-1355-4de8-a95e-37c13aa88c73.jpg)
+
+#Debugging 
+
+## Issue Summary
 
 16/02/2022 From 9:15 AM to 10:00 AM UTC+1 all requests for the homepage to our servers got a 404 response
-Timeline
+
+## Timeline
 
     9:10 AM : Updates push
     9:15 AM : Noticing the problem
@@ -14,7 +19,7 @@ Timeline
     9:55 AM : Server restart begins
     10:00 AM : 100% traffic back online with the new updates
 
-Root cause and resolution
+## Root cause and resolution
 
 After rolling back changes we knew that the changes were made by the front end team so we took the broken changes and run them on a test server which replicated same problem, our server uses apache2 and apache2 error logs didn't give enought infomation about the problem so we traced the apache2 process using strace and when a request is sent strace tool catchs a lot of error and after some scaning fo these errors we found the error wich is a typo in page file extention >
 
@@ -32,7 +37,7 @@ after fixing the error we pushed back the changes and restarted the servers
 
     10:00 AM : 100% of trafic back online with the new updates
 
-Corrective and preventative measures
+## Corrective and preventative measures
 
 To prevent similar problems from happening again we will
 
